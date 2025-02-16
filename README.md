@@ -1,4 +1,4 @@
-#currently still in developement
+# currently still in developement
 - no rug protection
 - purely market research at this point
 - hardcoded api key
